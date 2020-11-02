@@ -4,3 +4,4 @@ esta base de datos se encuentra en su respectiva carpeta de igualmanera pusimos 
 que es la manera que debe funcionar el proyecto este esta en un documento de word para que se pueda apreciar mejor 
 en el archivo.zip si guestan usuarios lo pueden descargar adentro vendra las diferentes partes que ocupamos para realizar desde 
 los archivos css y json
+para poder ver la base de datos y la conexion se nesecita el programa  workbench para abrir hay la base de datos y poderla manipular
